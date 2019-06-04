@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://terminalizer.com">
+    <img src="/img/logo.png?raw=true" width="200"/>
+  </a>
+</p>
+
 # Terminalizer
 
 [![npm](https://img.shields.io/npm/v/terminalizer.svg)](https://www.npmjs.com/package/terminalizer)
@@ -6,7 +12,7 @@
 [![Unicorn](https://img.shields.io/badge/nyancat-approved-ff69b4.svg)](https://www.youtube.com/watch?v=QH2-TGUlwu4)
 [![Tweet](https://img.shields.io/badge/twitter-share-76abec.svg)](https://goo.gl/QJzJu1)
 
-> Record your terminal and generate animated gif images or share a web player
+> Record your terminal and generate animated gif images or share a web player link [terminalizer.com](https://terminalizer.com) 
 
 <p align="center"><img src="/img/demo.gif?raw=true"/></p>
 
